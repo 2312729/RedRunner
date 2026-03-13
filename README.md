@@ -3,7 +3,7 @@
 ## Thông tin sinh viên
 - **Họ tên**: Nguyễn Văn Quốc
 - **MSSV**: 2312729
-- **Lớp**: CTK47B
+- **Lớp**:CTK47B
 
 ## Mô tả
 Bài thực hành Lab 01 môn **Game 2D Development with Unity**.

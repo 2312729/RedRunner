@@ -16,7 +16,14 @@ Khám phá dự án game RedRunner - Platformer 2D mã nguồn mở.
    - 0.5: Nhân vật bay bổng, rơi chậm.
    - 3.0: Nhân vật rơi rất nhanh, cảm giác nặng nề.
 4. **Thêm Coin**: Đã kéo thả Prefab Coin vào Scene tại khu vực bắt đầu game để kiểm tra tính năng thu thập.
-
+   
+## Screenshots
+Unity Editor tổng quan
+Game đang chạy — Màn hình Menu
+Game đang chạy — Gameplay
+Game đang chạy — Game Over
+Inspector của nhân vật RedRunner
+Code trong VS Code / Visual Studio
 ## Kiến thức đã học được
 1. Cách sử dụng Inspector để tinh chỉnh vật lý (Rigidbody 2D).
 2. Phân biệt va chạm vật lý (Spike) và va chạm xuyên thấu (Water/Coin).
